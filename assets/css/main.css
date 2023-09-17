@@ -1,0 +1,38 @@
+.cta-big-text{
+	font-size: 70px !important;
+}
+.friend{
+	margin-left: 30px;
+}
+.tp-hero-blue-shape{
+	background-color: #00eeff;
+}
+.tp-slider-sm-title{
+	font-weight: 400;
+}
+
+@media (max-width: 767px) {
+  .friend{
+      margin-left: 0px !important;
+  }
+}
+.tp-btn{
+	background-color: #000;
+}
+.tp-btn:hover{
+	background-color: #00eeff;
+}
+
+ .tp-price__content-circle span::before {
+     content: "";
+     height: 100%;
+     width: 50%;
+     background-color: #00eeff !important;
+     display: inline-block; }
+
+     @media (max-width: 767px){
+.tp-header-right ul li {
+  margin-left: 215px !important;
+}
+}
+
