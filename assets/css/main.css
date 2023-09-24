@@ -1,11 +1,11 @@
 .cta-big-text{
-	font-size: 70px !important;
+	font-size: 62px !important;
 }
 .friend{
 	margin-left: 30px;
 }
 .tp-hero-blue-shape{
-	background-color: #00eeff;
+	background-color: #1edbdc;
 }
 .tp-slider-sm-title{
 	font-weight: 400;
@@ -20,7 +20,7 @@
 	background-color: #000;
 }
 .tp-btn:hover{
-	background-color: #00eeff;
+	background-color: #1edbdc;
 }
 
  .tp-price__content-circle span::before {
@@ -36,3 +36,112 @@
 }
 }
 
+.tp-section-subtitle::before{
+  background-color: #1edbdc;
+}
+
+.tp-section-subtitle::after{
+  background-color: #1edbdc;
+}
+
+.tp-main-menu ul li:hover a{
+  color: #1edbdc;
+}
+
+.tp-main-menu ul li > .submenu li:hover a{
+  color: #1edbdc;
+}
+.tp-main-menu ul li > .submenu li a::after{
+  background-color: #000;
+}
+.scroll-top{
+  background-color: #1edbdc;
+}
+
+.service-item-three__button a span::after{
+  background-color: #1edbdc;
+}
+
+.service-item-three__button a:hover{
+  background-color: ;
+}
+.tp-section-subtitle.tp-yellow-color::before{
+  background-color: #1edbdc;
+}
+
+.tp-section-subtitle.tp-yellow-color::after{
+  background-color: #1edbdc;
+}
+.tp-service-item__icon span{
+  background-color: #1edbdc;
+}
+
+.tp-service-item.sv-color-blue-one .tp-service-item__icon span{
+  background-color: #1edbdc;
+}
+
+.tp-service-item.sv-color-blue-two .tp-service-item__icon span{
+  background-color: #1edbdc;
+}
+
+.tp-service-item__button-link a span::after{
+  background-color: #1edbdc;
+}
+
+.tp-service-item__button-link a:hover{
+  color: #1edbdc;
+}
+
+.tp-service-item.sv-color-blue-one .tp-service-item__button-link a span::after{
+  background-color: #1edbdc;
+}
+.tp-service-item.sv-color-blue-one .tp-service-item__button-link a:hover{
+  color: #1edbdc;
+}
+
+.tp-service-item.sv-color-blue-two .tp-service-item__button-link a span::after{
+  background-color: #1edbdc;
+}
+
+.tp-service-item.sv-color-blue-two .tp-service-item__button-link a:hover{
+  color: #1edbdc;
+}
+
+.tp-footer-widget__list ul li a:hover{
+  color: #1edbdc;
+}
+
+.tp-slider-exp-item__icon.icon-bg-green{
+  background-color: #1edbdc;
+}
+.tp-social-item.tp-dribble:hover{
+  background-color: #25d366;
+}
+.tp-social-item.tp-behance:hover{
+  background-color: #E1306C;
+}
+.breadcrumb__title{
+  font-size: 50px;
+}
+
+.contact-box{
+  background-color: #3da0a1;
+}
+.contact-box-circle::before{
+  background-color: #3da0a1;
+}
+.contact-box__info-list ul li a{
+  font-size: 16px;
+}
+/*.tp-contact-wrapper{
+  background-color: #4c5d60;
+}*/
+.contact-loaction a{
+  font-weight: 600;
+}
+/*h3 h4 {
+  color: #fff;
+}*/
+/*.contact-loaction a{
+  color: #fff;
+}*/
