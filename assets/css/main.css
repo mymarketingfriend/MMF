@@ -145,3 +145,26 @@
 /*.contact-loaction a{
   color: #fff;
 }*/
+
+@media (max-width: 767px) {
+  .align-sm{
+      margin-left: 67px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .think{
+      margin-left: -5px !important;
+  }
+}
+@media (max-width: 767px) {
+  .cta-item:hover .cta-effect-img{
+      bottom: 33px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .design{
+      margin-left: 40px !important;
+  }
+}
